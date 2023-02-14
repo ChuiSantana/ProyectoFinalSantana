@@ -1,0 +1,52 @@
+
+.navbar-brand{
+    display:flex;
+    font-size: 50px;
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    display: flex;
+    background-color: rgb(113, 90, 134);
+    text-align: center;
+    color: white;
+    justify-content: space-around;
+    border-radius: 20px;
+
+
+}
+
+.bolsas{
+    display:flex;
+    justify-content: space-around;
+}
+
+.carteras{
+    display:flex;
+    justify-content: space-around;
+}
+
+.zapatos{
+    display:flex;
+    justify-content: space-around;
+}
+
+.rebajas{
+    display:flex;
+    justify-content: space-around;
+}
+
+section{background:linear-gradient(rgb(243, 204, 226) 0%, rgb(230, 65, 180) 50%, rgb(185, 14, 114) 100%) ;
+        
+}
+
+
+
+footer p{
+    display:flex;
+    text-align: center;
+    background-color: black;
+    color: white;
+    justify-content: space-around;
+}
